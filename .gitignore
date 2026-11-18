@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+payload.json
+.loadtest.mjs
+*.db
+*-firebase-adminsdk-*.json
+node_modules/
+.firebase/
+localhost+lan.pem
+localhost+lan-key.pem
+chat_uploads/
